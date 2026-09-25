@@ -1,0 +1,10 @@
+state,region,role,est_share_of_national_production_pct,est_annual_production_tonnes,estimate_basis
+Kano,North-West,origin_producer,22,506000,"Estimated. I couldn't find an official tonnage figure for Kano, but it comes up repeatedly as Nigeria's top tomato producer, and it's where Dangote and Olam chose to site their tomato processing plants, which fits that ranking (S6, S7)."
+Kaduna,North-West,origin_producer,20,460000,"Estimated. Recent (2025-26) reporting names Kaduna as the leading or co-leading producer alongside Kano, so I placed it close behind (S7)."
+Katsina,North-West,origin_producer,15,345000,"Estimated. A major dryland producer that shows up consistently in the top five across the sources I checked (S7)."
+Jigawa,North-West,origin_producer,10,230000,"Estimated. Consistently listed among the top producing states, though never with an exact tonnage attached (S7)."
+Plateau,North-Central,origin_producer,8,184000,"Estimated. An established production zone thanks to its cooler climate, which suits tomatoes better than the hotter lowlands (S7)."
+Benue,North-Central,origin_producer,8,184000,"Estimated. Benue is known as Nigeria's food basket state and has a genuine commercial tomato belt, so I gave it a similar weight to Plateau (S7)."
+Gombe,North-East,origin_producer,6,138000,"Estimated, based on Gombe's listing as a commercial tomato producer (S7)."
+Bauchi,North-East,origin_producer,6,138000,"Estimated, based on Bauchi's listing as a commercial tomato producer (S7)."
+Other_states,Various,origin_producer,5,115000,"A catch-all for everything left over. S7 also names Sokoto, Kebbi, Nasarawa, Zamfara, Kogi, Oyo, Lagos, Ogun, and Osun as minor producers, but none of them have a large enough share on their own to warrant a separate line."

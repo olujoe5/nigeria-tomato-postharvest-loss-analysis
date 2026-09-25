@@ -1,0 +1,6 @@
+stage,stage_order,share_of_total_loss_pct,derived_loss_pct_of_volume_entering_chain,validation_check,source_ids
+Farm / Harvest,1,38,17.1,"I couldn't find an independent figure specific to this exact stage, so treat this as directional rather than precise.",S1;S3
+"Postharvest handling (on-farm sorting, packing, initial storage)",2,34,15.3,"Same as above: no independent figure specific to this exact stage, so directional rather than precise.",S1;S3
+Transport,3,14,6.3,"This is my split of the remaining 28% share. Other Nigerian tomato studies generally suggest transport loses more than wholesale or retail, which is what this split reflects.",S1;S3
+Wholesale market,4,8,3.6,"Cross-checked against a separate figure of 23.3% loss at the wholesale stage (S4). That's a different measurement, the share of volume that arrives at wholesale and spoils there, not the share of the original harvest that this column tracks, but both point the same direction.",S1;S3;S4
+Retail,5,6,2.7,"Cross-checked against a separate figure of 20% loss at retail (S5), again measuring the share of volume reaching retail rather than the original harvest, but consistent with this column.",S1;S3;S5
