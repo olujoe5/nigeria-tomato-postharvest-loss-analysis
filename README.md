@@ -7,7 +7,7 @@
 ![Excel](https://img.shields.io/badge/Excel-Workbook-217346?logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 
-Modeling Nigeria's tomato post-harvest losses and the ₦244bn/year a cold-chain fix could save — built on real 2025 NBS price data, with every assumption traced to a cited source.
+Modeling Nigeria's tomato post-harvest losses and the ₦244bn/year a cold-chain fix could save, built on real 2025 NBS price data, with every assumption traced to a cited source.
 
 ## The problem
 
@@ -53,7 +53,6 @@ savings estimate. The `.pbix` file in `dashboard/` can be opened directly in Pow
 | `docs/tomato_PHL_dataset.xlsx` | Excel workbook: all raw tables plus a live-formula Summary tab |
 | `dashboard/Tomato_phl_model.pbix` | Interactive Power BI dashboard built on the model output |
 | `dashboard/dashboard_overview.png` | Screenshot of the dashboard's overview page |
-
 
 ## Methodology
 
@@ -117,7 +116,6 @@ national production. A cold-chain fix could save an estimated 244 billion naira 
 quarter of total baseline loss, using an intervention that's already been field-tested rather than
 a hypothetical technology.
 
-
 ## Limitations
 
 This is a directional model built to fill a real gap, not an official government statistic, and it
@@ -147,6 +145,3 @@ raw dataset and a live-formula summary, and Power BI for the dashboard. Power BI
 separately from everything else here since it's desktop software: import
 `data/tomato_loss_model_output.csv`, or connect Power BI to a database loaded from
 `sql/schema_and_queries.sql`, to build it.
-#   - n i g e r i a - t o m a t o - p o s t h a r v e s t - l o s s - a n a l y s i s  
- #   n i g e r i a - t o m a t o - p o s t h a r v e s t - l o s s - a n a l y s i s  
- 
