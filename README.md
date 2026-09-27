@@ -65,7 +65,7 @@ tension worth knowing about: this model still uses the 45% figure because it's t
 consistently cited across Nigerian tomato research, but it likely overstates how much value is
 completely wiped out, since a discounted sale still recovers some money. There's no published
 figure for what that average discount looks like, so this model doesn't attempt to correct for
-it, and the totals below should be read as an upper bound rather than a central estimate.
+it.
 
 **Stage allocation.** A 2025 study in Scientific Reports on postharvest technology adoption in
 Nigerian tomato farming gives a stage-share breakdown of total loss: 38% at production/harvest,
